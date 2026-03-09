@@ -91,7 +91,7 @@ const customStyles = `.Root__top-container,
 }
 
 .Root__nav-bar .LayoutResizer__resize-bar {
-  height: 82vh;
+  height: calc(100% + 121px);
   bottom: 0;
 }
 
